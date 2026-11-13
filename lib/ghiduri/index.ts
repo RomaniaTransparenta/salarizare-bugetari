@@ -18,8 +18,10 @@ import { ghid as coeficientSalarizare } from "./coeficient-salarizare-bugetari";
 import { ghid as salariiFunctionariPublici } from "./salarii-functionari-publici-2026";
 import { ghid as salariuAsistentSocial } from "./salariu-asistent-social-noua-lege";
 import { ghid as salariuLucratorAmbasada } from "./salariu-lucrator-ambasada";
+import { ghid as salariuMedicPrimar } from "./salariu-medic-primar";
 
 const FABRICI: readonly (() => Ghid)[] = [
+  salariuMedicPrimar,
   salariuLucratorAmbasada,
   salariuAsistentSocial,
   salariiFunctionariPublici,
