@@ -297,3 +297,4 @@ Ultima linie a răspunsului, mereu: `PUBLICAT: https://romaniatransparenta.eu/re
 | 2026-11-06 | salariu-asistent-social-noua-lege | noua grila de salarizare in asistenta sociala 2026 |
 | 2026-11-10 | salariu-lucrator-ambasada | salariu lucrator ambasada romaniei |
 | 2026-11-13 | salariu-medic-primar | salariu medic primar |
+| 2026-11-17 | salariu-bibliotecar | salariu bibliotecar |
