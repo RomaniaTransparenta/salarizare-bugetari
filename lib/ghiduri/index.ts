@@ -20,8 +20,10 @@ import { ghid as salariuAsistentSocial } from "./salariu-asistent-social-noua-le
 import { ghid as salariuLucratorAmbasada } from "./salariu-lucrator-ambasada";
 import { ghid as salariuMedicPrimar } from "./salariu-medic-primar";
 import { ghid as salariuBibliotecar } from "./salariu-bibliotecar";
+import { ghid as salariuJudecator } from "./salariu-judecator";
 
 const FABRICI: readonly (() => Ghid)[] = [
+  salariuJudecator,
   salariuBibliotecar,
   salariuMedicPrimar,
   salariuLucratorAmbasada,
