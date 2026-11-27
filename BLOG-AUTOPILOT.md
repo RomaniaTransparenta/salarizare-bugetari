@@ -299,3 +299,4 @@ Ultima linie a răspunsului, mereu: `PUBLICAT: https://romaniatransparenta.eu/re
 | 2026-11-13 | salariu-medic-primar | salariu medic primar |
 | 2026-11-17 | salariu-bibliotecar | salariu bibliotecar |
 | 2026-11-24 | salariu-judecator | salariu judecator |
+| 2026-11-27 | salariu-militar | salariu militar noua lege |
